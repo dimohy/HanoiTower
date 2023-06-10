@@ -59,6 +59,35 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="docs\" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\emcc-props.json" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\Fonts.css" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\HanoiTower.Wasm.staticwebassets.runtime.json" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\mono-config.json" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\normalize.css" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\package.json" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\uno-assets.txt" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\uno-bootstrap.css" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\Uno.Fonts.Fluent\Fonts\uno-fluentui-assets.ttf" />
+	  <Content Include="docs\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\Uno.UI.css" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\emcc-props.json" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\Fonts.css" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\HanoiTower.Wasm.staticwebassets.runtime.json" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\mono-config.json" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\normalize.css" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\package.json" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\uno-assets.txt" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\uno-bootstrap.css" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\Uno.Fonts.Fluent\Fonts\uno-fluentui-assets.ttf" />
+	  <Content Include="docs\_compressed_br\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\Uno.UI.css" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\emcc-props.json" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\Fonts.css" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\HanoiTower.Wasm.staticwebassets.runtime.json" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\mono-config.json" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\normalize.css" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\package.json" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\uno-assets.txt" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\uno-bootstrap.css" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\Uno.Fonts.Fluent\Fonts\uno-fluentui-assets.ttf" />
+	  <Content Include="docs\_compressed_gz\package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0\Uno.UI.css" />
 	</ItemGroup>
 </Project>
