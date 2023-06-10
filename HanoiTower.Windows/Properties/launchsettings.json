@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"HanoiTower.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"HanoiTower.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}

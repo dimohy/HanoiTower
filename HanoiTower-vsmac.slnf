@@ -1,0 +1,12 @@
+{
+  "solution": {
+    "path": "HanoiTower.sln",
+    "projects": [
+      "HanoiTower.Mobile\\HanoiTower.Mobile.csproj",
+      "HanoiTower.Skia.Gtk\\HanoiTower.Skia.Gtk.csproj",
+      "HanoiTower.Wasm\\HanoiTower.Wasm.csproj",
+      "HanoiTower.Server\\HanoiTower.Server.csproj",
+      "HanoiTower\\HanoiTower.csproj"
+    ]
+  }
+}
