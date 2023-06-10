@@ -1,11 +1,11 @@
-import { config } from "/package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0//uno-config.js";
+import { config } from "/HanoiTower/package_cb88eb87e304646e2c1732b6a3da0130260caa08//uno-config.js";
 
 console.debug("[ServiceWorker] Initializing");
 
 self.addEventListener('install', function (e) {
     console.debug('[ServiceWorker] Installing offline worker');
     e.waitUntil(
-        caches.open('package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0').then(async function (cache) {
+        caches.open('package_cb88eb87e304646e2c1732b6a3da0130260caa08').then(async function (cache) {
             console.debug('[ServiceWorker] Caching app binaries and content');
 
             // Add files one by one to avoid failed downloads to prevent the

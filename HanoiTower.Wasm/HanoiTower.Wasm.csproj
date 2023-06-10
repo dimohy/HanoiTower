@@ -11,7 +11,7 @@
 			Supports Deep Linking Routes
 			https://aka.platform.uno/wasm-deeplink
 		-->
-		<WasmShellWebAppBasePath>/</WasmShellWebAppBasePath>
+		<WasmShellWebAppBasePath>/HanoiTower/</WasmShellWebAppBasePath>
 	</PropertyGroup>
 	<PropertyGroup Condition="'$(Configuration)'=='Debug'">
 		<MonoRuntimeDebuggerEnabled>true</MonoRuntimeDebuggerEnabled>
