@@ -22,5 +22,5 @@ config.environmentVariables["UNO_BOOTSTRAP_DEBUGGER_ENABLED"] = "False";
 config.environmentVariables["UNO_BOOTSTRAP_MONO_RUNTIME_CONFIGURATION"] = "Release";
 config.environmentVariables["UNO_BOOTSTRAP_MONO_RUNTIME_FEATURES"] = "";
 config.environmentVariables["UNO_BOOTSTRAP_APP_BASE"] = "package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0";
-config.environmentVariables["UNO_BOOTSTRAP_WEBAPP_BASE_PATH"] = "/";
+config.environmentVariables["UNO_BOOTSTRAP_WEBAPP_BASE_PATH"] = "/HanoiTower/";
 export { config };
