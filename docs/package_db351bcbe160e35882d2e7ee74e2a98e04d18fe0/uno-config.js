@@ -1,6 +1,6 @@
 let config = {};
 config.uno_remote_managedpath = "managed";
-config.uno_app_base = "/package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0";
+config.uno_app_base = "/HanoiTower/package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0";
 config.uno_dependencies = ["/package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0/setImmediate.js", "/package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0/Uno.UI.js", "/package_db351bcbe160e35882d2e7ee74e2a98e04d18fe0/AppManifest.js"];
 config.uno_main = "HanoiTower.Wasm";
 config.assemblyFileExtension = ".clr";
