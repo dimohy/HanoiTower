@@ -6,5 +6,5 @@
   "short_name": "HanoiTower",
   "start_url": "/index.html",
   "theme_color": "#ffffff",
-  "scope": "/"
+  "scope": "/HanoiTower"
 }
