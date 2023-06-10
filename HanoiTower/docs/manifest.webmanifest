@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "HanoiTower",
+  "display": "standalone",
+  "name": "HanoiTower",
+  "short_name": "HanoiTower",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

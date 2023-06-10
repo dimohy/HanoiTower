@@ -1,0 +1,32 @@
+{
+  "background_color": "#ffffff",
+  "description": "HanoiTower",
+  "display": "standalone",
+  "name": "HanoiTower",
+  "short_name": "HanoiTower",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "iconapp-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "iconapp-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "iconapp-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "iconapp-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
